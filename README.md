@@ -1,2 +1,2 @@
 # MASTER PYTHON VICTOR ROBLES UDEMY
-Repositorio del Master en Python impartido en Udemy por Víctor Robles
+Repositorio que contiene mis ejercicios del Master en Python impartido en Udemy por Víctor Robles
